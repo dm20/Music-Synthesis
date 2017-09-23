@@ -1,6 +1,6 @@
 % Daniel McGrath
-% Lab 3 - Music Synthesis in MATLAB
-% Part C
+% Music Synthesis in MATLAB
+% 
 %
 % This function plays a scale by repeatedly calling the note
 % function.
