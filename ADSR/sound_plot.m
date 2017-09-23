@@ -1,4 +1,4 @@
-% Used to test ADSR function
+%plotting
 
 figure();
 x = note(44,1);
