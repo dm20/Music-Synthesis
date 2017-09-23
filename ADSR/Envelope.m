@@ -1,10 +1,8 @@
 % Daniel McGrath
-% Lab 3 - Music Synthesis in MATLAB
+% Music Synthesis in MATLAB
 % Envelope function
 %
-% This function amplitude modulates an audio vector to fit the ADSR profile
-% indicated by the A,D,S,R vectors, which are composed of constants over different ranges and at different rates
-% that are multiplied with the audio amplitudes. 
+% This function amplitude modulates an audio vector.
 
 function[y] =  Envelope(x)
     s = size(x,2);                 % size of audio vector
