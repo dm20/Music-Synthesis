@@ -1,6 +1,8 @@
 % Daniel McGrath
-% Lab 3 - Music Synthesis in MATLAB
-% STARWARS Theme Song
+% Music Synthesis in MATLAB
+% -------------------------
+%    STARWARS Theme Song
+% -------------------------
 
 clear all;
 clc;
