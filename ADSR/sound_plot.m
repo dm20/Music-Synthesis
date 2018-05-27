@@ -1,4 +1,5 @@
-% for plotting tones before and after ADSR modulation
+% for plotting ADSR modulated tones
+% when a note is instantiated it is automatically ADSR modulated
 
 figure();
 
