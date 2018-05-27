@@ -2,8 +2,7 @@
 % Music Synthesis in MATLAB
 % 
 %
-% This function plays a scale by repeatedly calling the note
-% function.
+% This function plays a scale by creating a vector of notes and then playing the vector.
 
 function scale()
       scale = [40 42 44 45 47 49 51 52];  % the scale keynums
