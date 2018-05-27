@@ -3,7 +3,7 @@
 figure();
 
 x = note(44,1);
-t = 0 : 1/8192 : 1;
+t = 0 : 1/8192 : 1; # sampling rates are usually around 8 kHz
 
 subplot(2,1,1)
 plot(t,x);
