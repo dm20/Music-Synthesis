@@ -1,6 +1,8 @@
 # Music-Synthesis
 Piano simulator.
 
+---
+
 ### Regarding notes...
 The implementation of note vectors is left application specific and up to the programmer. One might prefer a sine wave over a square wave, for instance.
 
