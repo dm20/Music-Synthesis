@@ -24,5 +24,5 @@ function[y] =  Envelope(x)
         end
     end
     
-    y = k.*x;                      % amplitude modulate the audio vector using the concatanation of scaling vectors
+    y = k.*x;                      % return the concatanated amplitude modulated audio vectors
 end
