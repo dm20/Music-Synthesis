@@ -1,4 +1,7 @@
 # Music-Synthesis
+
+<img src="images/music_synth.png" img>
+
 Piano simulator.
 
 ---
