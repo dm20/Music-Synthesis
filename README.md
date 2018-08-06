@@ -4,7 +4,7 @@ Piano simulator.
 ---
 
 ### Regarding notes...
-See the open Issue
+ <a href="https://www.github.com/dm20/Music-Synthesis/issues/1/">See the open Issue</a>, which was a GREAT question!!
 
 The implementation of note vectors is left application specific and up to the programmer. One might prefer a sine wave over a square wave, for instance.
 
